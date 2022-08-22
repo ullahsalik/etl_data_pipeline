@@ -1,0 +1,4 @@
+.terraform*
+terraform.tfstate*
+etl_pipeline_terraform.tfstate*
+.etl_pipeline_terraform.tfstate*

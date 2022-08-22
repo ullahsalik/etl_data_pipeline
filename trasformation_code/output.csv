@@ -1,0 +1,4 @@
+Date,City,product_category,unit_sold_in_last_3_months_from_current_date,unit_sold_in_last_6_months_from_current_date,unit_sold_in_last_9_months_from_current_date,unit_sold_in_last_12_months_from_current_date
+31/3/2022,Agra,electronics.audio.headphone,,,,
+31/3/2022,Delhi,computers.peripherals.monitor,,,,
+31/3/2022,Mumbai,electronics.smartphone,,,,
