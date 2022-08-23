@@ -5,3 +5,4 @@ This repo consists of ETL Pipeline designed using AWS services for transforming 
 ## Walking through repo code for setting up ETL pipeline over aws environment:
 - Terraform directory contains directories base-infra for setting up all networking components for private network on AWS, terraform modules and resource creation terraform files.
 - In transformation_code dir contains the python code for performing transformation of the input files from S3 data.
+- All the authentication is done via iam policy.
